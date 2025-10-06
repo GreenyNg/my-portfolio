@@ -9,7 +9,7 @@ Use this file to easily grab image URLs, track updates, and document changes.
 
 | Asset Name | Preview | Direct Link | Description | Last Updated | Change Log |
 |-------------|----------|--------------|--------------|---------------|-------------|
-| Avatar | ![Avatar](https://github.com/GreenyNg/my-portfolio/blob/206b4f390b37a9e3a3e9f063e933106006e759e8/Avatar.png) | [View Image](https://raw.githubusercontent.com/GreenyNg/my-portfolio/main/Avatar.png) | Portfolio profile image used in loading section. | 2025-10-06 | Added initial image. |
+| Avatar | ![Avatar](https://raw.githubusercontent.com/GreenyNg/my-portfolio/18126f99d89a0233cb03950439618ff5edfba2c3/assets/images/Avatar.png) | [View Image](https://github.com/GreenyNg/my-portfolio/blob/main/assets/images/Avatar.png) | Portfolio profile image used in loading section. | 2025-10-06 | Added initial image. |
 | Hero Banner | *(Coming soon)* | — | Homepage hero background gradient illustration. | — | — |
 
 ---
