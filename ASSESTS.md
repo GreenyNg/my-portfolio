@@ -1,0 +1,33 @@
+# 🧱 Portfolio Assets Library
+
+Centralized reference for all design & development assets in this project.  
+Use this file to easily grab image URLs, track updates, and document changes.
+
+---
+
+## 🖼️ Images
+
+| Asset Name | Preview | Direct Link | Description | Last Updated | Change Log |
+|-------------|----------|--------------|--------------|---------------|-------------|
+| Avatar | ![Avatar](https://github.com/GreenyNg/my-portfolio/blob/206b4f390b37a9e3a3e9f063e933106006e759e8/Avatar.png) | [View Image](https://raw.githubusercontent.com/GreenyNg/my-portfolio/main/Avatar.png) | Portfolio profile image used in loading section. | 2025-10-06 | Added initial image. |
+| Hero Banner | *(Coming soon)* | — | Homepage hero background gradient illustration. | — | — |
+
+---
+
+## 🧭 Icons
+
+| Icon Name | Preview | Direct Link | Used In | Last Updated | Change Log |
+|------------|----------|--------------|----------|---------------|-------------|
+| Sun | *(Coming soon)* | — | Navbar theme toggle (light mode) | — | — |
+| Moon | *(Coming soon)* | — | Navbar theme toggle (dark mode) | — | — |
+
+---
+
+## 🧰 Notes
+- Keep all images inside `/assets/images` and icons in `/assets/icons`.
+- Use **raw.githubusercontent.com** links for embedding in Figma Make, Lovable, or web builds.
+- Update the “Change Log” column whenever you replace or optimize a file (e.g., compressed, recolored, updated version).
+
+---
+
+> ✨ *Tip:* You can view this file beautifully rendered right on GitHub — Markdown tables and image previews display natively.
