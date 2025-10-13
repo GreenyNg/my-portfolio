@@ -10,7 +10,11 @@ Use this file to easily grab image URLs, track updates, and document changes.
 | Asset Name | Preview | Direct Link | Description | Last Updated | Change Log |
 |-------------|----------|--------------|--------------|---------------|-------------|
 | Avatar | ![Avatar](https://raw.githubusercontent.com/GreenyNg/my-portfolio/18126f99d89a0233cb03950439618ff5edfba2c3/assets/images/Avatar.png) | [View Image](https://github.com/GreenyNg/my-portfolio/blob/main/assets/images/Avatar.png) | Portfolio profile image used in loading section. | 2025-10-06 | Added initial image. |
-| Hero Banner | *(Coming soon)* | — | Homepage hero background gradient illustration. | — | — |
+| Project 1 | ![project1]() | [View Image](https://github.com/GreenyNg/my-portfolio/blob/main/assets/images/project1.png) | Thumbnail used to represent project 1. | 2-25-10-13 | Added initial Image |
+| Project 2 | ![project2]() | [View Image](https://github.com/GreenyNg/my-portfolio/blob/main/assets/images/project2.png) | Thumbnail used to represent project 2. | 2-25-10-13 | Added initial Image |
+| Project 3 | ![project3]() | [View Image](https://github.com/GreenyNg/my-portfolio/blob/main/assets/images/project3.png) | Thumbnail used to represent project 3. | 2-25-10-13 | Added initial Image |
+| Project 4 | ![project4]() | [View Image](https://github.com/GreenyNg/my-portfolio/blob/main/assets/images/project4.png) | Thumbnail used to represent project 4. | 2-25-10-13 | Added initial Image |
+
 
 ---
 
